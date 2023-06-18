@@ -1,4 +1,4 @@
-# Shopify Security Policy
+## Shopify Security Policy
 
 Shopify's [Whitehat Bug Bounty program](https://www.shopify.com/whitehat) rewards researchers for discovering security vulnerabilities.
 
